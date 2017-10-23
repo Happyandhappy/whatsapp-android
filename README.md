@@ -13,5 +13,5 @@ A sample Android App which can be used as a starter application for a chat appli
 
 ###Screenshots
 
-<img src="https://github.com/Happyandhappy/whatsapp-android/blob/gh-pages/chat1.png"/>
-<img src="https://github.com/Happyandhappy/whatsapp-android/blob/gh-pages/chat2.png"/>
+<img src="https://github.com/Happyandhappy/whatsapp-android/blob/master/app/src/main/assets/chat1.png"/>
+
